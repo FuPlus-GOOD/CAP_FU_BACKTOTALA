@@ -1,0 +1,2 @@
+# CAP_FU_BACKTOTALA
+这个库是用于存储在华中农业大学Python课程项目的游戏代码
